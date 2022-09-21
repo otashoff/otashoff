@@ -11,7 +11,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he",
   code: [Javascript, HTML, CSS, Ruby, React],
   tools: [React, Node, Styled-Components],
   architecture: ["Tetris", "Pokemon", "Portfolio web site"],
@@ -20,7 +20,7 @@ const thai = {
                         speaker: "July Bogdan",
                         mentor: "Artificial intelligence"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ soft skills: "Inquisitive, active, cheerful"
 }
 ```
 
