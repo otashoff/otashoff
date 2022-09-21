@@ -4,9 +4,9 @@
 <p><em>My place of residence at <a href="https://www.google.com/maps/place/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/@41.381166,64.5735819,6z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b20a5d676b1:0xca0a6dad7e841e20!8m2!3d41.377491!4d64.585262">Uzbekistan</a><img src="https://www.gifservice.fr/img/gif-vignette-small/32799168efb65eab8d421ab49badb8c4/89659-flags-asia-uzbekistan-map.gif" width="30"></p>
 
 
-[![Twitter: otashoff](https://img.shields.io/twitter/follow/otashoff?style=social)](https://twitter.com/Otashoff)
+[![Twitter: otashoff](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Otashoff)
 [![Linkedin: OtabekAbdurakhmonov](https://img.shields.io/badge/-otabekabdurakhmonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otabekabdurakhmonov/)](https://www.linkedin.com/in/OtabekAbdurakhmonov/)
-[![GitHub otashoff](https://img.shields.io/github/followers/otashoff?label=follow&style=social)](https://github.com/otashoff)
+[![GitHub otashoff](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otashoff)
 [![Instagram: _otash_off](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_otash_off)
 
 
