@@ -13,7 +13,7 @@
 
 ```javascript
 const otash = {
-  pronouns: "he",
+  pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, Ruby, React],
   tools: [React, Node, Styled-Components],
   architecture: ["Tetris", "Pokemon", "Portfolio web site"],
