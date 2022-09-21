@@ -7,7 +7,7 @@
 [![Twitter: otashoff](https://img.shields.io/twitter/follow/otashoff?style=social)](https://twitter.com/Otashoff)
 [![Linkedin: OtabekAbdurakhmonov](https://img.shields.io/badge/-otabekabdurakhmonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otabekabdurakhmonov/)](https://www.linkedin.com/in/OtabekAbdurakhmonov/)
 [![GitHub otashoff](https://img.shields.io/github/followers/otashoff?label=follow&style=social)](https://github.com/otashoff)
-[![Instagram: _otash_off](https://img.shields.io/instagram/follow/_otash_off?style=social)](https://instagram.com/_otash_off)
+[![Instagram: _otash_off](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_otash_off)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
